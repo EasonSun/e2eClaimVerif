@@ -1,0 +1,11 @@
+[
+{"claim": "\n\tThe U.S. National Park Service is selling Trump-branded wines at Shenandoah National Park in Virginia.\t", "rating": "MIXTURE"},
+{"claim": "\n\tThe yolks of flamingo eggs are a bright pink color.\t", "rating": "FALSE"},
+{"claim": "\n\tISIS called for the assassination of Barron Trump in November 2017.\t", "rating": "MIXTURE"},
+{"claim": "\n\tActor Keanu Reeves stated that Hollywood elites engage in the ritual abuse of children and the practice of drinking their blood.\t", "rating": "FALSE"},
+{"claim": "\n\tA large contingent of U.S. Marine Corps helicopters were seen circling CIA headquarters.\t", "rating": "FALSE"},
+{"claim": "\n\tGlen Eagles hospital issued an urgent warning because seven women have died after sniffing perfume samples received in the mail.\t", "rating": "\n\t\t\t\t\t. \n\t\t\t\t. FALSE. \n\t"},
+{"claim": "\n\tService station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles.\t", "rating": "\n\t\t\t\t\t. \n\t\t\t\t. FALSE. \n\t"},
+{"claim": "\n\tPresident Trump ordered the execution of several turkeys pardoned by President Obama.\t\t\t. \n\t", "rating": "FALSE"},
+{"claim": "\n\tA good Samaritan warns a female driver about the armed and dangerous man hiding in the back seat of her car.\t", "rating": "\n\t\t\t\t\t. \n\t\t\t\t. LEGEND. \n\t"}
+]
